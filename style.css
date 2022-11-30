@@ -4,8 +4,22 @@ body {
 }
 
 .txtexo1{
-    position: relative;
     margin-left: 3%;
-    
+}
+
+.carrerouge {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background: red;
+    margin-left: 25%;
+    margin-top: -25%;
+  }
+
+.barregrise {
+    width: 200px;
+    height: 25px;
+    background-color: rgb(220,220,220);
+
 
 }
